@@ -1,6 +1,6 @@
 {
    "name":"Propagandas",
-   "version": 2,
+   "version": 1,
    "videos":[
       {
          "url":"https://drive.google.com/file/d/1pQ-JblLjWhUuUmIXjr5xJHnylquj7x7E/view?usp=sharing",
@@ -161,11 +161,6 @@
          "url":"https://drive.google.com/file/d/1Cj_B7iUMpW3oU0AJFgGm4VoL7b1TUUOu/view?usp=sharing",
          "fileId":"1t0zLx4W8VIXDqZ0C1Nti1jcQyXCDyK7I",
          "name":"VT - CLINICA DE OLHOS"
-      },
-      {
-         "url":"https://drive.google.com/file/d/1c5a2bZCmP3bIUtK96A_waPt9SJ236Rge/view?usp=sharing",
-         "fileId":"1c5a2bZCmP3bIUtK96A_waPt9SJ236Rge",
-         "name":"VT - ZÉ PIRANHA"
       }
    ]
 }
